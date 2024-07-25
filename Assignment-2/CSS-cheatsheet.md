@@ -22,8 +22,7 @@ CSS - Cascading Style Sheets. It is used to add styles to an HTML page.
 
 ## Box Model
 
-![Box Model](https://media.geeksforgeeks.org/wp-content/uploads/box-model-1.png)  
-*(Replace `image-url` with the actual URL of the box model image)*
+![Box Model](https://media.geeksforgeeks.org/wp-content/uploads/box-model-1.png) 
 
 - **Padding** - Space between the content and border.
 - **Border** - Outline of the element.
