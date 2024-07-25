@@ -1,0 +1,50 @@
+CSS Cheatsheet
+
+CSS - Cascading Style Sheets. it is used to add styles to a html page.
+
+
+Types of CSS:
+
+Inline CSS - apply style to a single element. eg - <div style="color:blue"></div>
+
+Internal CSS - apply style to a single page. written within the <style> tags in the head section. 
+
+External CSS - can be used to apply style to multiple pages. written in an external stylesheet and linked using the <link> tag.
+
+
+Types of Selectors:
+
+Universal selector - select all types of elements in an HTML page. (*)
+Tag selector - select all instances of a particular tag. (p, div etc.)
+Id selector - select an element having a particular id. (#heading).
+Class selector - select all elements having same class. (.project).
+Attribute selector - select elements having the given attribute. (input[type="text"]).
+Pseudo class selector - select a special state of an element. (a:hover).
+
+
+Box Model: 
+
+[image of box model]
+
+Padding - space between the content and border.
+Border - outline of the element.
+Margin - space between the border of current element and other elements.
+
+
+Commonly used CSS properties: 
+
+color - specify color of text.
+background-color - specify background color of element.
+font-size - specify the size of text.
+font-family - specify the font of text.
+margin - specify margin for element.
+padding - specify padding for element.
+border - specify style, thickness and color of border.
+width - specify width for element.
+height - specify height for element.
+display - specify type of display. eg - flex, grid, inline, block.
+justify-content - aligns flex container's items horizontally. 
+align-items - aligns flex container's items vertically.
+
+
+
